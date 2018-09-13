@@ -1,2 +1,2 @@
 # shoes
-Maquetacion de pagina sencillacon JS
+Maquetacion de pagina sencilla con JS
